@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="888e14e1-2d3b-4384-b2c4-71c8f4163e73" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2044815985">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <marker date="1536403870000" expanded="false" signature="6:255" ph="..." />
+                <marker date="1536403870000" expanded="true" signature="280:607" ph="{...}" />
+                <marker date="1536403870000" expanded="true" signature="307:605" ph="{...}" />
+                <marker date="1536403870000" expanded="true" signature="360:434" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+              <folding>
+                <marker date="1536946550000" expanded="false" signature="6:402" ph="..." />
+                <marker date="1536946550000" expanded="true" signature="427:1384" ph="{...}" />
+                <marker date="1536946550000" expanded="true" signature="454:1382" ph="{...}" />
+                <marker date="1536946550000" expanded="true" signature="513:576" ph="{...}" />
+                <marker date="1536946550000" expanded="true" signature="799:908" ph="{...}" />
+                <marker date="1536946550000" expanded="true" signature="1096:1376" ph="{...}" />
+                <marker date="1536946550000" expanded="true" signature="1143:1220" ph="{...}" />
+                <marker date="1536946550000" expanded="true" signature="1237:1298" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8C31CF8-9D63-4537-93AA-C41656C69DAF/5a/5819116b/HostingEnvironmentExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1EDABACE-10B8-4A86-8DAF-F46F97873F4F/dd/a13ffc06/WebHost.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8C31CF8-9D63-4537-93AA-C41656C69DAF/9a/d01102b9/IWebHostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="715" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="DatingApp.API" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="888e14e1-2d3b-4384-b2c4-71c8f4163e73" name="Default Changelist" comment="" />
+      <created>1536403915539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536403915539</updated>
+      <workItem from="1536403919548" duration="1371000" />
+      <workItem from="1536946457728" duration="461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1832000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="715" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8C31CF8-9D63-4537-93AA-C41656C69DAF/9a/d01102b9/IWebHostBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1EDABACE-10B8-4A86-8DAF-F46F97873F4F/dd/a13ffc06/WebHost.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="151" column="34" selection-start-line="151" selection-start-column="34" selection-end-line="151" selection-end-column="34" />
+          <folding>
+            <marker date="1536404376000" expanded="true" signature="0:365" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1536404376000" expanded="false" signature="373:849" ph="..." />
+            <marker date="1536404376000" expanded="true" signature="881:14856" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="886:1128" ph="/// Provides convenience methods for creating instances of &lt;see cref=&quot;T:Microsoft.AspNetCore.Hosting.IWebHost&quot; /&gt; ... " />
+            <marker date="1536404376000" expanded="true" signature="1158:14854" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="1167:1620" ph="/// Initializes and starts a new &lt;see cref=&quot;T:Microsoft.AspNetCore.Hosting.IWebHost&quot; /&gt; with pre-configured defau ... " />
+            <marker date="1536404376000" expanded="true" signature="1674:1734" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="1740:2274" ph="/// Initializes and starts a new &lt;see cref=&quot;T:Microsoft.AspNetCore.Hosting.IWebHost&quot; /&gt; with pre-configured defau ... " />
+            <marker date="1536404376000" expanded="true" signature="2340:2617" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="2623:3112" ph="/// Initializes and starts a new &lt;see cref=&quot;T:Microsoft.AspNetCore.Hosting.IWebHost&quot; /&gt; with pre-configured defau ... " />
+            <marker date="1536404376000" expanded="true" signature="3181:3250" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="3256:3826" ph="/// Initializes and starts a new &lt;see cref=&quot;T:Microsoft.AspNetCore.Hosting.IWebHost&quot; /&gt; with pre-configured defau ... " />
+            <marker date="1536404376000" expanded="true" signature="3907:4239" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="4245:4745" ph="/// Initializes and starts a new &lt;see cref=&quot;T:Microsoft.AspNetCore.Hosting.IWebHost&quot; /&gt; with pre-configured defau ... " />
+            <marker date="1536404376000" expanded="true" signature="4815:4879" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="4885:5466" ph="/// Initializes and starts a new &lt;see cref=&quot;T:Microsoft.AspNetCore.Hosting.IWebHost&quot; /&gt; with pre-configured defau ... " />
+            <marker date="1536404376000" expanded="true" signature="5548:5652" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="5806:6327" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="6333:7894" ph="/// Initializes a new instance of the &lt;see cref=&quot;T:Microsoft.AspNetCore.Hosting.WebHostBuilder&quot; /&gt; class with pre ... " />
+            <marker date="1536404376000" expanded="true" signature="7951:8023" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="8029:9767" ph="///   Initializes a new instance of the &lt;see cref=&quot;T:Microsoft.AspNetCore.Hosting.WebHostBuilder&quot; /&gt; class with p ... " />
+            <marker date="1536404376000" expanded="true" signature="9837:12797" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="10242:10894" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="10550:10763" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="10992:11169" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="11272:12431" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="11376:12125" ph="{...}" />
+            <marker date="1536404376000" expanded="true" signature="12803:14663" ph="/// Initializes a new instance of the &lt;see cref=&quot;T:Microsoft.AspNetCore.Hosting.WebHostBuilder&quot; /&gt; class with pre ... " />
+            <marker date="1536404376000" expanded="true" signature="14766:14850" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1536403870000" expanded="false" signature="6:255" ph="..." />
+            <marker date="1536403870000" expanded="true" signature="280:607" ph="{...}" />
+            <marker date="1536403870000" expanded="true" signature="307:605" ph="{...}" />
+            <marker date="1536403870000" expanded="true" signature="360:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8C31CF8-9D63-4537-93AA-C41656C69DAF/5a/5819116b/HostingEnvironmentExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <marker date="1536946550000" expanded="false" signature="6:402" ph="..." />
+            <marker date="1536946550000" expanded="true" signature="427:1384" ph="{...}" />
+            <marker date="1536946550000" expanded="true" signature="454:1382" ph="{...}" />
+            <marker date="1536946550000" expanded="true" signature="513:576" ph="{...}" />
+            <marker date="1536946550000" expanded="true" signature="799:908" ph="{...}" />
+            <marker date="1536946550000" expanded="true" signature="1096:1376" ph="{...}" />
+            <marker date="1536946550000" expanded="true" signature="1143:1220" ph="{...}" />
+            <marker date="1536946550000" expanded="true" signature="1237:1298" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
